@@ -34,7 +34,7 @@ task.resume()
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/khdiXi1Ylx.gif" width=250><br>
+<img src="http://g.recordit.co/4bbI4xelC2.gif" width=250><br>
 
 ### Notes
 XCode was buggy, after shutting down for a few hours it started working
